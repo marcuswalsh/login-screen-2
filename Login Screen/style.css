@@ -1,0 +1,41 @@
+html {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    padding-top: 50px;
+}
+
+body {
+    margin: 0 auto;
+    width: 600px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 20px;
+    border-color: purple;
+    border-width: 2px;
+    border-style: solid;
+}
+
+p {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+a {
+    font-family: 'Georgia', sans-serif;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+button {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+}
